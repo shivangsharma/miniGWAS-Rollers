@@ -1,2 +1,2 @@
 # miniGWAS-Rollers
-Identification of SNPs driving tongue rolling phenotype, using classification machine learning models
+Identification of GWAS predicted SNPs driving tongue rolling phenotype, using classification machine learning models
